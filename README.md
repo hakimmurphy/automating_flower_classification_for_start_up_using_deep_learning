@@ -2,7 +2,7 @@
 
 This project demonstrates a robust deep learning pipeline for classifying flower species using transfer learning and hyperparameter tuning. The workflow leverages TensorFlow, Keras, and KerasTuner, and compares the performance of ResNet50 and DenseNet121 backbones on the Oxford Flowers 102 dataset.
 
-## Project Structure
+## Project Structure after running code
 
 ```
 ├── automating_flower_classification_for_start_up_using_deep_learning_gc.ipynb
