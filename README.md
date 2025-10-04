@@ -68,5 +68,12 @@ This project demonstrates a robust deep learning pipeline for classifying flower
 - [Keras Applications](https://keras.io/api/applications/)
 - [KerasTuner](https://keras.io/keras_tuner/)
 
+---
+
+## 📄 License
+MIT
+
+---
+
 ## Author
 Hakim Murphy
